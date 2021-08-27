@@ -1,0 +1,3 @@
+﻿  TrippleX.cpp
+D:\UECourse\ConsoleGame\TrippleX\TrippleX.cpp(84,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TrippleX.vcxproj -> D:\UECourse\ConsoleGame\Debug\TrippleX.exe
